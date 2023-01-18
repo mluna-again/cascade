@@ -161,3 +161,4 @@
 #tabbrowser-tabs{
   border-inline-start: none !important;
 }
+#PersonalToolbar { display: none !important; }
