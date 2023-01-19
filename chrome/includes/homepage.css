@@ -1,0 +1,21 @@
+@-moz-document url("about:home"), url("about:newtab") {
+	body {
+		background-color: var(--uc-base-colour) !important;
+	}
+
+	.search-inner-wrapper {
+		display: none !important;
+	}
+
+	.icon.icon-settings.personalize-button.personalize-animate-appear-done.personalize-animate-enter-done {
+		display: none !important;
+	}
+
+	.logo-and-wordmark .wordmark {
+		display: none !important;
+	}
+
+	.body-wrapper.on {
+		display: none !important;
+	}
+}
