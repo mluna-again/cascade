@@ -162,3 +162,7 @@
   border-inline-start: none !important;
 }
 #PersonalToolbar { display: none !important; }
+.tab-background[selected="true"] {
+	border-top: 2px solid !important;
+	border-top-color: var(--uc-identity-colour-yellow) !important;
+}
