@@ -130,7 +130,7 @@
    *  possible values:
    *  show: -moz-inline-block
    *  hide: none
-   */ --show-tab-close-button-hover: none;
+   */ --show-tab-close-button-hover: -moz-inline-block;
 
   /*  Hide the all Tabs button from the Tab Bar
    *  possible values:
